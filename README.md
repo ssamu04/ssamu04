@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi! I'm a highly motivated Computer Science student in the Philippines. Someone who loves learning!
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,kotlin,php,css,html)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=cs,angular,nodejs)](https://skillicons.dev)
+
 
 <!--
 **ssamu04/ssamu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
